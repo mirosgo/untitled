@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         public class Team {
+// firsthomework
 
             private String nameTeam = "unknown";
             Animal[] zoo = {new Cat("Murzik"), new Hen("Izzy"), new Hippo("Hippopo")};
